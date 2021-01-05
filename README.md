@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 ## Web Developement
 
@@ -44,3 +44,5 @@ Here are some ideas to get you started:
 ## Others
 
 1. [Data Structures and Algorithms in Python](https://github.com/MANOJPATRA1991/Data-Structures-and-Algorithms-in-Python)
+
+-->
