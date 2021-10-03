@@ -1,4 +1,23 @@
-### Hi there 👋
+<h1 align="center">
+  Hi I am Manoj!! 👋
+</h1>
+
+<h2 align="center">
+  Projects
+</h2>
+
+[![Manoj's GitHub stats](https://github-readme-stats.vercel.app/api?username=MANOJPATRA1991&count_private=true&show_icons=true)](https://github.com/MANOJPATRA1991/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MANOJPATRA1991&langs_count=8&hide=jupyter%20notebook&layout=compact)](https://github.com/MANOJPATRA1991/github-readme-stats)
+
+[![Manoj's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?layout=compact)](https://github.com/MANOJPATRA1991/github-readme-stats)
+
+<a href="https://github.com/MANOJPATRA1991/food-delivery-app-react-native">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MANOJPATRA1991&repo=food-delivery-app-react-native" />
+</a>
+<a href="https://github.com/MANOJPATRA1991/daily-exercise-app-flutter">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MANOJPATRA1991&repo=daily-exercise-app-flutter" />
+</a>
 
 <!--
 **MANOJPATRA1991/MANOJPATRA1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
