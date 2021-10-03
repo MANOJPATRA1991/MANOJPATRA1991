@@ -2,6 +2,25 @@
   Hi I am Manoj!! 👋
 </h1>
 
+<div align="center">
+  💻 Currently working at <a href="https://www.linkedin.com/company/syfe/mycompany/">Syfe</a> | 🔭 Currently focusing on improving my Docker skills | 💬 Ask me about front-end web development 🌐 | ⚡ Fun fact: Type 63 🔫 is my favorite weapon in 🎮 Call of Duty: Cold War
+</div>
+
+<h2 align="center">
+  📫 Reach out to me on 
+</h2>
+
+<p align="center">
+  <a href="https://manojp1991.dev"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
+  <a href="mailto:candida.noronha18@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+  <a href="https://github.com/MANOJPATRA1991"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/manojpatra1/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://www.youtube.com/channel/UCWR0bOo0T8It8xIcTUz92mw"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
+</p>
+
+<h2 align="center">
+  💡 Stats
+</h2>
 
 <div align="center">
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MANOJPATRA1991&theme=dracula" />
@@ -32,7 +51,7 @@
 </div>
 
 <h2 align="center">
-  Side Projects
+  🔨 Side Projects
 </h2>
 
 
@@ -91,16 +110,11 @@
   </a>
 </div>
 
-<!--
-**MANOJPATRA1991/MANOJPATRA1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">
+  ✍️ Blogs
+</h2>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+1. [StackOverflow Developer Survey Analysis 2019](https://manojpatra.medium.com/stackoverflow-developer-survey-analysis-2019-cfbca09a088c)
+2. [Starbucks Promotion Strategy — Capstone Project for Udacity’s Data Scientist Nanodegree](https://medium.com/swlh/starbucks-promotion-strategy-capstone-project-for-udacitys-data-scientist-nanodegree-12031f8e8d29)
+3. [14 React patterns every React developer should know](https://www.linkedin.com/pulse/14-react-patterns-every-developer-should-know-manoj-kumar-patra/)
+4. [HTML Email Template Design Guidelines](https://www.linkedin.com/pulse/html-email-template-design-guidelines-manoj-kumar-patra/)
