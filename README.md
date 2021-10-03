@@ -163,9 +163,9 @@
 </h3>
 
 <div align="center">
-  <a href="https://github.com/MANOJPATRA1991/Data-Structures-and-Algorithms-in-Python">
+<!--   <a href="https://github.com/MANOJPATRA1991/Data-Structures-and-Algorithms-in-Python">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MANOJPATRA1991&repo=Data-Structures-and-Algorithms-in-Python&theme=dracula" />
-  </a>
+  </a> -->
 </div>
 
 <h2 align="center">
