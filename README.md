@@ -157,16 +157,19 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MANOJPATRA1991&repo=data-scientist-nanodegree&theme=dracula" />
   </a>
 </div>
-<!-- 
+
 <h3 align="center">
   Others
 </h3>
 
 <div align="center">
+<a href="https://github.com/MANOJPATRA1991/Cracking-the-coding-interview-solutions-in-Python">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MANOJPATRA1991&repo=Cracking-the-coding-interview-solutions-in-Python&theme=dracula" />
+  </a>&ensp;
   <a href="https://github.com/MANOJPATRA1991/Data-Structures-and-Algorithms-in-Python">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MANOJPATRA1991&repo=Data-Structures-and-Algorithms-in-Python&theme=dracula" />
   </a>
-</div> -->
+</div>
 
 <h2 align="center">
   ✍️ Blogs
