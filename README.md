@@ -36,19 +36,19 @@
 
 <br />
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/MANOJPATRA1991/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MANOJPATRA1991&langs_count=8&hide=jupyter%20notebook&layout=compact&card_width=445&theme=dracula" />
   </a>
 </div>
 
-<br />
+<br /> -->
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/MANOJPATRA1991/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?layout=compact&theme=dracula" />
   </a>
-</div>
+</div> -->
 
 <h2 align="center">
   ⛹️‍♂️ Skills
